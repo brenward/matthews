@@ -1,0 +1,32 @@
+.full-width{
+    max-width:100%;
+    height: auto;
+}
+
+.glyphicon {
+    margin: 20px 0 20px 0;
+}
+
+.row{
+    margin-top: 0px;
+}
+
+.media{
+    margin-bottom:20px;
+}
+
+.cards{
+    margin-top: 20px;
+}
+
+.text-color{
+    color:white;
+}
+
+.main-image{
+    background: url("../images/funny-car-breakdown-pictures.jpg") no-repeat center center;
+    background-size: cover;
+    background-color: steelblue;
+    padding-top:15%;
+    padding-bottom:15%;
+}
